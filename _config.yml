@@ -1,0 +1,8 @@
+title: Rupee Smart Guides
+description: Plain-English money guides for India - brokers, hosting, forex cards and more.
+url: "https://avijitgoel-gif.github.io"
+baseurl: ""
+theme: minima
+plugins: [jekyll-sitemap, jekyll-seo-tag, jekyll-feed]
+permalink: /:title/
+header_pages: [about.md, disclosure.md]

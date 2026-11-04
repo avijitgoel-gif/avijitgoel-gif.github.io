@@ -1,0 +1,8 @@
+# Swap url values with real affiliate links when approved.
+hostinger: {label: "Check Hostinger India plans", url: "https://www.hostinger.com/in/pricing"}
+hostinger-premium: {label: "Get Hostinger Premium", url: "https://www.hostinger.com/in/pricing"}
+bookmyforex: {label: "Order a BookMyForex card", url: "https://www.bookmyforex.com/forex-card/"}
+niyo-global: {label: "Get the Niyo Global card", url: "https://www.goniyo.com/"}
+groww-referral: {label: "Open a free Groww account", url: "https://groww.in/"}
+upstox-referral: {label: "Open an Upstox account", url: "https://upstox.com/"}
+zerodha-referral: {label: "Open a Zerodha account", url: "https://zerodha.com/open-account/"}
