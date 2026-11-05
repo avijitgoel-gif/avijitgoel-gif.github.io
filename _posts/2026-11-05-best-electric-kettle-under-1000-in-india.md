@@ -6,7 +6,7 @@ keyword: "best electric kettle under 1000 in india"
 date: 2026-11-05
 ---
 
-> **Affiliate disclosure:** This page contains affiliate links. If you buy through them, we may earn a commission at no extra cost to you. Prices and ratings were copied from Amazon.in and Flipkart on 5 November 2026 and change often, so check the live price before you buy.
+> **Affiliate disclosure:** This page contains affiliate links. If you buy through them, we may earn a commission at no extra cost to you. As an Amazon Associate I earn from qualifying purchases. Prices and ratings were copied from Amazon.in and Flipkart on 5 November 2026 and change often, so check the live price before you buy.
 
 You do not need to spend more than ₹1,000 on a good electric kettle in India. The best-selling kettles on Amazon.in right now cost between ₹472 and ₹780, and most of them have a stainless steel body, automatic shut-off and a 1.5 to 1.8 litre jug.
 
@@ -23,7 +23,7 @@ The real differences are smaller than the listings suggest: capacity, wattage, w
 
 ## Comparison table: electric kettles under ₹1,000
 
-All prices and ratings below are from the [Amazon.in electric kettle bestseller list](https://www.amazon.in/gp/bestsellers/kitchen/22938888031) on 5 November 2026, unless marked otherwise.
+All prices and ratings below are from the [Amazon.in electric kettle bestseller list](https://www.amazon.in/gp/bestsellers/kitchen/22938888031?tag=rupeesmart01-21){:rel="sponsored nofollow noopener"} on 5 November 2026, unless marked otherwise.
 
 | Kettle | Capacity | Power | Body | Warranty (per listing) | Amazon rating | Price |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -57,7 +57,7 @@ What you get, according to the Amazon title and the Zepto product sheet ([Zepto 
 
 ### 2. Pigeon Amaze Plus 1.5L: cheapest reliable pick
 
-At ₹489 (MRP ₹1,245), the Amaze Plus is the cheapest kettle here, and it is also the most reviewed, with 1,80,257 ratings averaging 4.0 stars ([Amazon bestsellers](https://www.amazon.in/gp/bestsellers/kitchen/22938888031)). Amazon's Pigeon store page shows "20K+ bought in past month" ([Pigeon store on Amazon](https://www.amazon.in/stores/PigeonbyStovekraft/page/C461BBF8-262F-4FA2-8474-FC57A6DB3DDE)).
+At ₹489 (MRP ₹1,245), the Amaze Plus is the cheapest kettle here, and it is also the most reviewed, with 1,80,257 ratings averaging 4.0 stars ([Amazon bestsellers](https://www.amazon.in/gp/bestsellers/kitchen/22938888031?tag=rupeesmart01-21){:rel="sponsored nofollow noopener"}). Amazon's Pigeon store page shows "20K+ bought in past month" ([Pigeon store on Amazon](https://www.amazon.in/stores/PigeonbyStovekraft/page/C461BBF8-262F-4FA2-8474-FC57A6DB3DDE?tag=rupeesmart01-21){:rel="sponsored nofollow noopener"}).
 
 - 1.5 litres, 1300 W, stainless steel body
 - Automatic shut-off
@@ -176,8 +176,8 @@ The Bajaj KTX 1.8L DLX, with a 2-year warranty, at about ₹781.
 
 ## Sources
 
-- Amazon.in Bestsellers in Electric Kettles (checked 5 Nov 2026): https://www.amazon.in/gp/bestsellers/kitchen/22938888031
-- Pigeon by Stovekraft store on Amazon.in: https://www.amazon.in/stores/PigeonbyStovekraft/page/C461BBF8-262F-4FA2-8474-FC57A6DB3DDE
+- Amazon.in Bestsellers in Electric Kettles (checked 5 Nov 2026): [https://www.amazon.in/gp/bestsellers/kitchen/22938888031](https://www.amazon.in/gp/bestsellers/kitchen/22938888031?tag=rupeesmart01-21){:rel="sponsored nofollow noopener"}
+- Pigeon by Stovekraft store on Amazon.in: [https://www.amazon.in/stores/PigeonbyStovekraft/page/C461BBF8-262F-4FA2-8474-FC57A6DB3DDE](https://www.amazon.in/stores/PigeonbyStovekraft/page/C461BBF8-262F-4FA2-8474-FC57A6DB3DDE?tag=rupeesmart01-21){:rel="sponsored nofollow noopener"}
 - Prestige PKOSS on Flipkart: https://www.flipkart.com/prestige-pkoss-electric-kettle/p/itmbb912f6254bbb?pid=EKTERHHDFKZ55GHW
 - Prestige PKOSS product sheet on Zepto: https://www.zeptonow.com/pn/prestige-1-5l-stainless-steel-electric-kettle-1500w-silver-pkoss-1-5/pvid/566b495f-1656-47e9-b7d8-0e5a31e5b500
 
