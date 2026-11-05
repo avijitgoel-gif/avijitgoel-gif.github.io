@@ -5,4 +5,4 @@ baseurl: ""
 theme: minima
 plugins: [jekyll-sitemap, jekyll-seo-tag, jekyll-feed]
 permalink: /:title/
-header_pages: [about.md, disclosure.md]
+header_pages: [deals.md, about.md, disclosure.md]
