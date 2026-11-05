@@ -6,3 +6,7 @@ niyo-global: {label: "Get the Niyo Global card", url: "https://www.goniyo.com/"}
 groww-referral: {label: "Open a free Groww account", url: "https://groww.in/"}
 upstox-referral: {label: "Open an Upstox account", url: "https://upstox.com/"}
 zerodha-referral: {label: "Open a Zerodha account", url: "https://zerodha.com/open-account/"}
+amazon-pigeon-amaze-plus: {label: "Check Pigeon Amaze Plus price on Amazon", url: "https://www.amazon.in/s?k=Pigeon+Amaze+Plus+Electric+Kettle+1.5+L"}
+amazon-milton-rapid: {label: "Check Milton Rapid 1.8L price on Amazon", url: "https://www.amazon.in/s?k=Milton+Rapid+Electric+Kettle+1.8L"}
+flipkart-prestige-pkoss: {label: "Check Prestige PKOSS price on Flipkart", url: "https://www.flipkart.com/prestige-pkoss-electric-kettle/p/itmbb912f6254bbb?pid=EKTERHHDFKZ55GHW"}
+amazon-bajaj-ktx: {label: "Check Bajaj KTX 1.8L price on Amazon", url: "https://www.amazon.in/s?k=Bajaj+KTX+1.8+Litre+DLX+Electric+Kettle"}
