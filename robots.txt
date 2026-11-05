@@ -4,3 +4,5 @@ layout: null
 User-agent: *
 Allow: /
 Sitemap: {{ site.url }}/sitemap.xml
+Sitemap: {{ site.url }}/gadget-guides-india/sitemap.xml
+Sitemap: {{ site.url }}/home-kitchen-india/sitemap.xml
