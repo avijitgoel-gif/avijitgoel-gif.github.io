@@ -25,3 +25,7 @@ amazon-everest-els-100n: {label: "Check Everest ELS 100-N price on Amazon", url:
 amazon-microtek-emt1390: {label: "Check Microtek EMT1390 price on Amazon", url: "https://www.amazon.in/dp/B06XYNM7VC?tag=rupeesmart01-21"}
 amazon-vguard-neo-crystal: {label: "Check V-Guard Neo Crystal price on Amazon", url: "https://www.amazon.in/dp/B0BTH9Z2M8?tag=rupeesmart01-21"}
 amazon-everest-ent-30n: {label: "Check Everest ENT 30-N price on Amazon", url: "https://www.amazon.in/dp/B0DT61GDYX?tag=rupeesmart01-21"}
+amazon-casio-mj-12d: {label: "Check Casio MJ-12D price on Amazon", url: "https://www.amazon.in/dp/B0752LL57V?tag=rupeesmart01-21"}
+amazon-casio-dj-120d: {label: "Check Casio DJ-120D price on Amazon", url: "https://www.amazon.in/dp/B007Q83LVE?tag=rupeesmart01-21"}
+amazon-orpat-ot-512gt: {label: "Check Orpat OT-512GT price on Amazon", url: "https://www.amazon.in/dp/B01I1AZJ1K?tag=rupeesmart01-21"}
+amazon-casio-mj-120d: {label: "Check Casio MJ-120D price on Amazon", url: "https://www.amazon.in/dp/B00K32PEW4?tag=rupeesmart01-21"}
