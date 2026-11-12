@@ -7,21 +7,21 @@ description: "Hand-checked Amazon.in deals on gadgets, kitchen and home products
 
 > **Affiliate disclosure:** Links on this page are affiliate links. As an Amazon Associate I earn from qualifying purchases.
 
-**Last updated: 9 November 2026, 7:52 AM IST.** Prices were read from Amazon.in at that time and can change or end at any moment. Check the price on Amazon before you buy.
+**Last updated: 12 November 2026, 8:05 AM IST.** Prices were read from Amazon.in at that time and can change or end at any moment. Check the price on Amazon before you buy.
 
 Each deal below is a well-rated product (4.0 stars or more from at least 1,000 buyers) selling below its listed MRP on Amazon.in. Remember that many MRPs are inflated, so judge a deal by the selling price, not the discount alone.
 
 | Category | Product | Price | MRP | Off | Rating |
 | --- | --- | --- | --- | --- | --- |
-| Earbuds | [boAt 2026 Launch Nirvana Ion TWS Earbuds (Lunar Black)](https://www.amazon.in/dp/B0HJZ7V1PL?tag=rupeesmart01-21){:rel="sponsored nofollow noopener"} | ₹1,599 | ₹7,990 | 80% | 4.1 (21.4K) |
-| Power banks | [URBN Power Bank 20000mAh Fast Charging ,35W Super Fast Power Delivery (PD) Portable Charger , Triple Output , ](https://www.amazon.in/dp/B0H725859P?tag=rupeesmart01-21){:rel="sponsored nofollow noopener"} | ₹1,299 | ₹3,999 | 68% | 4.0 (3.1K) |
-| Chargers | [DR VAKU® 65W Charger Type C Fast Adapter with Multi Port Dual PD Charging GaN Technology for MacBook Laptop, i](https://www.amazon.in/dp/B0FM7WX84H?tag=rupeesmart01-21){:rel="sponsored nofollow noopener"} | ₹999 | ₹3,999 | 75% | 4.5 (1.4K) |
-| Kitchen | [Longway Super Pro Juicer Mixer Grinder , Up to 750W Max Output Powerful Motor , 4 Jars for Grinding, Mixing, J](https://www.amazon.in/dp/B0GWCRPGDB?tag=rupeesmart01-21){:rel="sponsored nofollow noopener"} | ₹1,599 | ₹3,939 | 59% | 4.0 (2K) |
-| Kitchen | [Milton Appliances Go Electric Kettle 1.8 Litre I 3X Protection - Dry Boil, Auto Shut Off, Overheat I 1350 Watt](https://www.amazon.in/dp/B091V8HK8Z?tag=rupeesmart01-21){:rel="sponsored nofollow noopener"} | ₹799 | ₹1,599 | 50% | 4.0 (11.9K) |
-| Home | [Colorbot Stella BLDC Ceiling Fans 1200mm , BEE 5 Star Rated Power Saver , AeroQuiet+ Technology , 370 RPM , Re](https://www.amazon.in/dp/B0D66ZBQ36?tag=rupeesmart01-21){:rel="sponsored nofollow noopener"} | ₹2,499 | ₹6,377 | 61% | 4.0 (4.9K) |
-| Home | [ILIFE T20s Ultra Robot Vacuum Cleaner, Upgraded 25k Pa Suction, Self-Emptying Up to 1 Year with 5 dust Bags, L](https://www.amazon.in/dp/B0G8JRXC6M?tag=rupeesmart01-21){:rel="sponsored nofollow noopener"} | ₹26,915 | ₹110,000 | 76% | 4.2 (2.2K) |
-| Personal care | [Lifelong Beard Trimmer for Man , Timmer Men Beard , Cordless Hair Trimmer for Men All in One , USB Rechargeabl](https://www.amazon.in/dp/B0CCJ8MBLD?tag=rupeesmart01-21){:rel="sponsored nofollow noopener"} | ₹699 | ₹2,000 | 65% | 4.0 (20.4K) |
-| Storage | [HP v236w 128GB USB 2.0 Flash Drive/Pen Drive, Metal Silver](https://www.amazon.in/dp/B0C1H6S5X8?tag=rupeesmart01-21){:rel="sponsored nofollow noopener"} | ₹1,359 | ₹5,999 | 77% | 4.2 (85.8K) |
-| Home | [AQUA D PURE 4 in 1 Copper RO Water Purifier with 10 Stage Purification Filtration, UV, UF, TDS Adjuster and 12](https://www.amazon.in/dp/B0BJ6P3LSK?tag=rupeesmart01-21){:rel="sponsored nofollow noopener"} | ₹4,879 | ₹24,999 | 80% | 4.1 (14.1K) |
+| Electronics | [Samsung Galaxy S25 Ultra 5G AI Smartphone (Titanium Gray, 12GB RAM, 256GB Storage), 200MP Camera, 5000mAh Ultr](https://www.amazon.in/dp/B0DSKMV3ZC?tag=rupeesmart01-21){:rel="sponsored nofollow noopener"} | ₹94,999 | ₹129,999 | 27% | 4.4 (4,488) |
+| Electronics | [Samsung Original 25W USB Type-C Travel Adaptor Without Cable for Google Pixel, Xiaomi, Motorola, iPhone, Samsu](https://www.amazon.in/dp/B0D2R2MXXJ?tag=rupeesmart01-21){:rel="sponsored nofollow noopener"} | ₹535 | ₹1,699 | 69% | 4.4 (24,947) |
+| Computer accessories | [American Tourister Valex , 28L Backpack , 17" Laptop Bag , 2 Compartments , College & Office Backpack for Men ](https://www.amazon.in/dp/B0BTD4S4XF?tag=rupeesmart01-21){:rel="sponsored nofollow noopener"} | ₹1,299 | ₹2,500 | 48% | 4.3 (12,731) |
+| Computer accessories | [ZEBRONICS Blanc Slim Wireless Mouse with Rechargeable Battery, BT + 2.4GHz, 4 Buttons, 800/1200/1600 DPI, Sile](https://www.amazon.in/dp/B0CQRNWJM2?tag=rupeesmart01-21){:rel="sponsored nofollow noopener"} | ₹429 | ₹799 | 46% | 4.0 (10,033) |
+| Kitchen | [Amazon Brand - Presto! Garbage Bags , Medium , 180 Count , 30 Bags X 6 Rolls , 19 X 21 Inches , For Dry & Wet ](https://www.amazon.in/dp/B0821PN8L4?tag=rupeesmart01-21){:rel="sponsored nofollow noopener"} | ₹299 | ₹630 | 53% | 4.4 (55,000) |
+| Kitchen | [Milton Rapid Electric Kettle 1.8L , 1500 Watts , Stainless Steel Hot Water portable Electric Kettle for Home, ](https://www.amazon.in/dp/B0F54GKQ38?tag=rupeesmart01-21){:rel="sponsored nofollow noopener"} | ₹649 | ₹1,499 | 57% | 4.0 (10,303) |
+| Home | [ShineXPro Microfiber Cleaning Cloth Roll, 20Pcs, 4000 Times Washable - 10X Cheaper Than Paper Kitchen Towel Ro](https://www.amazon.in/dp/B0FS1VB862?tag=rupeesmart01-21){:rel="sponsored nofollow noopener"} | ₹299 | ₹500 | 40% | 4.5 (2,910) |
+| Home | [GM 3060 Extension Board 10A, 250V with 2M Cord from Plug Top to Connecting Point , Master Switch, Safety Shutt](https://www.amazon.in/dp/B008XT42JU?tag=rupeesmart01-21){:rel="sponsored nofollow noopener"} | ₹425 | ₹650 | 35% | 4.4 (68,695) |
+| Sports and fitness | [Slovic Pull Up Bar for Home for Kids & Adults [100 KG] , Anti-Skid Grip , No-Drill Installation Pull up Bar fo](https://www.amazon.in/dp/B0B6NSDR2H?tag=rupeesmart01-21){:rel="sponsored nofollow noopener"} | ₹549 | ₹1,499 | 63% | 4.0 (6,804) |
+| Sports and fitness | [Lifelong PVC Hex Dumbbells Pack of 2 (5kg*2) Black Color for Home Gym Equipment Fitness Barbell,Gym Exercise,H](https://www.amazon.in/dp/B09W5PSTBP?tag=rupeesmart01-21){:rel="sponsored nofollow noopener"} | ₹549 | ₹1,000 | 45% | 4.0 (23,288) |
 
 Looking for a full comparison first? See our guides on [Rupee Smart Guides](/), [Gadget Guides India](https://avijitgoel-gif.github.io/gadget-guides-india/) and [Home and Kitchen India](https://avijitgoel-gif.github.io/home-kitchen-india/).
