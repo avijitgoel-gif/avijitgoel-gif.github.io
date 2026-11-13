@@ -38,3 +38,6 @@ amazon-tvs-cc232: {label: "Check TVS Electronics CC-232 price on Amazon", url: "
 amazon-stok-mc05: {label: "Check STöK MC05 price on Amazon", url: "https://www.amazon.in/dp/B06XXQT69S?tag=rupeesmart01-21"}
 amazon-stok-mc01: {label: "Check STöK MC01 price on Amazon", url: "https://www.amazon.in/dp/B07MRF11YW?tag=rupeesmart01-21"}
 amazon-basics-mini-note-counter: {label: "Check Amazon Basics mini note counter price on Amazon", url: "https://www.amazon.in/dp/B0D8JX5M1C?tag=rupeesmart01-21"}
+amazon-mantra-mfs110-l1: {label: "Check Mantra MFS110 L1 price on Amazon", url: "https://www.amazon.in/dp/B0CZLLZ98Z?tag=rupeesmart01-21"}
+amazon-access-fm220u-l1: {label: "Check Access (Startek) FM220U L1 price on Amazon", url: "https://www.amazon.in/dp/B0CKX5S7RK?tag=rupeesmart01-21"}
+amazon-morpho-mso1300-e3-l1: {label: "Check Morpho MSO 1300 E3 L1 price on Amazon", url: "https://www.amazon.in/dp/B0CCVGXFG7?tag=rupeesmart01-21"}
