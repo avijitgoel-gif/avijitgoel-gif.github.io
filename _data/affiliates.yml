@@ -41,3 +41,7 @@ amazon-basics-mini-note-counter: {label: "Check Amazon Basics mini note counter 
 amazon-mantra-mfs110-l1: {label: "Check Mantra MFS110 L1 price on Amazon", url: "https://www.amazon.in/dp/B0CZLLZ98Z?tag=rupeesmart01-21"}
 amazon-access-fm220u-l1: {label: "Check Access (Startek) FM220U L1 price on Amazon", url: "https://www.amazon.in/dp/B0CKX5S7RK?tag=rupeesmart01-21"}
 amazon-morpho-mso1300-e3-l1: {label: "Check Morpho MSO 1300 E3 L1 price on Amazon", url: "https://www.amazon.in/dp/B0CCVGXFG7?tag=rupeesmart01-21"}
+amazon-stok-st15cc: {label: "Check STöK ST-15CC price on Amazon", url: "https://www.amazon.in/dp/B0DGTBN8RB?tag=rupeesmart01-21"}
+amazon-basics-6-sheet-crosscut-shredder: {label: "Check Amazon Basics 6-Sheet Cross Cut Shredder price on Amazon", url: "https://www.amazon.in/dp/B0DGND6VM8?tag=rupeesmart01-21"}
+amazon-basics-10-sheet-crosscut-shredder: {label: "Check Amazon Basics 10-Sheet Cross Cut Shredder price on Amazon", url: "https://www.amazon.in/dp/B0D56YP6H2?tag=rupeesmart01-21"}
+amazon-stok-st35cc: {label: "Check STöK ST-35CC price on Amazon", url: "https://www.amazon.in/dp/B0DYV5ZDC4?tag=rupeesmart01-21"}
