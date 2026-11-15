@@ -45,3 +45,7 @@ amazon-stok-st15cc: {label: "Check STöK ST-15CC price on Amazon", url: "https:/
 amazon-basics-6-sheet-crosscut-shredder: {label: "Check Amazon Basics 6-Sheet Cross Cut Shredder price on Amazon", url: "https://www.amazon.in/dp/B0DGND6VM8?tag=rupeesmart01-21"}
 amazon-basics-10-sheet-crosscut-shredder: {label: "Check Amazon Basics 10-Sheet Cross Cut Shredder price on Amazon", url: "https://www.amazon.in/dp/B0D56YP6H2?tag=rupeesmart01-21"}
 amazon-stok-st35cc: {label: "Check STöK ST-35CC price on Amazon", url: "https://www.amazon.in/dp/B0DYV5ZDC4?tag=rupeesmart01-21"}
+amazon-helett-billquick-lite: {label: "Check Helett BillQuick Lite price on Amazon", url: "https://www.amazon.in/dp/B0CZ99K438?tag=rupeesmart01-21"}
+amazon-hoin-58mm-bt-usb: {label: "Check HOIN 58mm Bluetooth + USB printer price on Amazon", url: "https://www.amazon.in/dp/B07F1PZZJG?tag=rupeesmart01-21"}
+amazon-atpos-h58bt: {label: "Check ATPOS H-58BT price on Amazon", url: "https://www.amazon.in/dp/B07KXTLZ85?tag=rupeesmart01-21"}
+amazon-seznik-veer-58mm: {label: "Check SEZNIK Veer 58mm price on Amazon", url: "https://www.amazon.in/dp/B0F3FFM7N9?tag=rupeesmart01-21"}
