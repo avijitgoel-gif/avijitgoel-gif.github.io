@@ -49,3 +49,7 @@ amazon-helett-billquick-lite: {label: "Check Helett BillQuick Lite price on Amaz
 amazon-hoin-58mm-bt-usb: {label: "Check HOIN 58mm Bluetooth + USB printer price on Amazon", url: "https://www.amazon.in/dp/B07F1PZZJG?tag=rupeesmart01-21"}
 amazon-atpos-h58bt: {label: "Check ATPOS H-58BT price on Amazon", url: "https://www.amazon.in/dp/B07KXTLZ85?tag=rupeesmart01-21"}
 amazon-seznik-veer-58mm: {label: "Check SEZNIK Veer 58mm price on Amazon", url: "https://www.amazon.in/dp/B0F3FFM7N9?tag=rupeesmart01-21"}
+amazon-helett-ht20: {label: "Check Helett HT20 wireless 2D scanner price on Amazon", url: "https://www.amazon.in/dp/B0CPDPTHVN?tag=rupeesmart01-21"}
+amazon-helett-ht410: {label: "Check Helett HT410 wired 2D scanner price on Amazon", url: "https://www.amazon.in/dp/B0CBC9G7W2?tag=rupeesmart01-21"}
+amazon-retsol-ls450a: {label: "Check RETSOL LS 450A price on Amazon", url: "https://www.amazon.in/dp/B0753H9768?tag=rupeesmart01-21"}
+amazon-brontix-x2: {label: "Check Brontix X2 wireless scanner price on Amazon", url: "https://www.amazon.in/dp/B0GHF8SRH1?tag=rupeesmart01-21"}
