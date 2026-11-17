@@ -53,3 +53,7 @@ amazon-helett-ht20: {label: "Check Helett HT20 wireless 2D scanner price on Amaz
 amazon-helett-ht410: {label: "Check Helett HT410 wired 2D scanner price on Amazon", url: "https://www.amazon.in/dp/B0CBC9G7W2?tag=rupeesmart01-21"}
 amazon-retsol-ls450a: {label: "Check RETSOL LS 450A price on Amazon", url: "https://www.amazon.in/dp/B0753H9768?tag=rupeesmart01-21"}
 amazon-brontix-x2: {label: "Check Brontix X2 wireless scanner price on Amazon", url: "https://www.amazon.in/dp/B0GHF8SRH1?tag=rupeesmart01-21"}
+amazon-apc-bx600c-in: {label: "Check APC Back-UPS BX600C-IN price on Amazon", url: "https://www.amazon.in/dp/B016XVRKZM?tag=rupeesmart01-21"}
+amazon-artis-ps-600va: {label: "Check Artis PS-600VA UPS price on Amazon", url: "https://www.amazon.in/dp/B018LYLAOG?tag=rupeesmart01-21"}
+amazon-microtek-legend-650: {label: "Check Microtek Legend 650 UPS price on Amazon", url: "https://www.amazon.in/dp/B0C7C2VP8D?tag=rupeesmart01-21"}
+amazon-zebronics-u1205: {label: "Check ZEBRONICS U1205 1000VA UPS price on Amazon", url: "https://www.amazon.in/dp/B0D1Y8V6HH?tag=rupeesmart01-21"}
