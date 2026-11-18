@@ -57,3 +57,7 @@ amazon-apc-bx600c-in: {label: "Check APC Back-UPS BX600C-IN price on Amazon", ur
 amazon-artis-ps-600va: {label: "Check Artis PS-600VA UPS price on Amazon", url: "https://www.amazon.in/dp/B018LYLAOG?tag=rupeesmart01-21"}
 amazon-microtek-legend-650: {label: "Check Microtek Legend 650 UPS price on Amazon", url: "https://www.amazon.in/dp/B0C7C2VP8D?tag=rupeesmart01-21"}
 amazon-zebronics-u1205: {label: "Check ZEBRONICS U1205 1000VA UPS price on Amazon", url: "https://www.amazon.in/dp/B0D1Y8V6HH?tag=rupeesmart01-21"}
+amazon-rangappa-beginners-guide: {label: "Check A Beginner's Guide to the Indian Stock Market price on Amazon", url: "https://www.amazon.in/dp/936989876X?tag=rupeesmart01-21"}
+amazon-indian-stock-market-simplified: {label: "Check The Indian Stock Market Simplified price on Amazon", url: "https://www.amazon.in/dp/0143473034?tag=rupeesmart01-21"}
+amazon-prasenjit-paul-avoid-loss: {label: "Check How to Avoid Loss and Earn Consistently price on Amazon", url: "https://www.amazon.in/dp/1482850885?tag=rupeesmart01-21"}
+amazon-one-up-on-wall-street: {label: "Check One Up On Wall Street price on Amazon", url: "https://www.amazon.in/dp/0743200403?tag=rupeesmart01-21"}
