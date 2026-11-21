@@ -69,3 +69,6 @@ amazon-healthsense-bs161: {label: "Check HealthSense BS161 smart scale price on 
 amazon-kusam-meco-km9045: {label: "Check KUSAM-MECO KM 9045 fake note detector price on Amazon", url: "https://www.amazon.in/dp/B0CD7DDFM6?tag=rupeesmart01-21"}
 amazon-swaggers-fnd-compact: {label: "Check swaggers compact fake note detector price on Amazon", url: "https://www.amazon.in/dp/B07LGVW5N7?tag=rupeesmart01-21"}
 amazon-bestow-fnd50: {label: "Check Bestow metal fake note detector price on Amazon", url: "https://www.amazon.in/dp/B09JP6LX9C?tag=rupeesmart01-21"}
+amazon-sagrach-cash-drawer: {label: "Check Sagrach POS cash drawer price on Amazon", url: "https://www.amazon.in/dp/B084ZP9LW9?tag=rupeesmart01-21"}
+amazon-gobbler-405b: {label: "Check GOBBLER 405B cash drawer price on Amazon", url: "https://www.amazon.in/dp/B097992Q4N?tag=rupeesmart01-21"}
+amazon-bestow-cd405: {label: "Check Bestow CD-405 cash drawer price on Amazon", url: "https://www.amazon.in/dp/B09CQDY7RK?tag=rupeesmart01-21"}
