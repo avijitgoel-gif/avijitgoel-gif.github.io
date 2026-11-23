@@ -75,3 +75,7 @@ amazon-bestow-cd405: {label: "Check Bestow CD-405 cash drawer price on Amazon", 
 amazon-ti-ba-ii-plus: {label: "Check Texas Instruments BA II Plus price on Amazon", url: "https://www.amazon.in/dp/B00000JZKB?tag=rupeesmart01-21"}
 amazon-ti-ba-ii-plus-professional: {label: "Check TI BA II Plus Professional price on Amazon", url: "https://www.amazon.in/dp/B0001EMLZW?tag=rupeesmart01-21"}
 amazon-casio-fc-200v-2: {label: "Check Casio FC-200V-2nd Edition price on Amazon", url: "https://www.amazon.in/dp/B0B61H7L6Q?tag=rupeesmart01-21"}
+amazon-stok-l11a: {label: "Check STöK L11A A4 laminator price on Amazon", url: "https://www.amazon.in/dp/B01HQ6A28A?tag=rupeesmart01-21"}
+amazon-basics-a401-laminator: {label: "Check Amazon Basics A401 laminator price on Amazon", url: "https://www.amazon.in/dp/B0DGMXZ9M9?tag=rupeesmart01-21"}
+amazon-basics-a303-laminator: {label: "Check Amazon Basics A303 A3 laminator price on Amazon", url: "https://www.amazon.in/dp/B0DGN3LRM4?tag=rupeesmart01-21"}
+amazon-stok-la3: {label: "Check STöK LA3 A3 laminator price on Amazon", url: "https://www.amazon.in/dp/B07G12YTDV?tag=rupeesmart01-21"}
