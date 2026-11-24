@@ -79,3 +79,8 @@ amazon-stok-l11a: {label: "Check STöK L11A A4 laminator price on Amazon", url: 
 amazon-basics-a401-laminator: {label: "Check Amazon Basics A401 laminator price on Amazon", url: "https://www.amazon.in/dp/B0DGMXZ9M9?tag=rupeesmart01-21"}
 amazon-basics-a303-laminator: {label: "Check Amazon Basics A303 A3 laminator price on Amazon", url: "https://www.amazon.in/dp/B0DGN3LRM4?tag=rupeesmart01-21"}
 amazon-stok-la3: {label: "Check STöK LA3 A3 laminator price on Amazon", url: "https://www.amazon.in/dp/B07G12YTDV?tag=rupeesmart01-21"}
+amazon-canon-lide-400: {label: "Check Canon LiDE 400 scanner price on Amazon", url: "https://www.amazon.in/dp/B07G5YBS1W?tag=rupeesmart01-21"}
+amazon-canon-lide-300: {label: "Check Canon LiDE 300 scanner price on Amazon", url: "https://www.amazon.in/dp/B07G5XZVLQ?tag=rupeesmart01-21"}
+amazon-epson-v39ii-india: {label: "Check Epson V39II (Epson India listing) price on Amazon", url: "https://www.amazon.in/dp/B0CG5WQR98?tag=rupeesmart01-21"}
+amazon-epson-v39-ii: {label: "Check Epson Perfection V39 II price on Amazon", url: "https://www.amazon.in/dp/B0C35V1CLK?tag=rupeesmart01-21"}
+amazon-epson-es-60w: {label: "Check Epson WorkForce ES-60W price on Amazon", url: "https://www.amazon.in/dp/B07KRXXWYY?tag=rupeesmart01-21"}
