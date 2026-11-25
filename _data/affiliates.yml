@@ -84,3 +84,9 @@ amazon-canon-lide-300: {label: "Check Canon LiDE 300 scanner price on Amazon", u
 amazon-epson-v39ii-india: {label: "Check Epson V39II (Epson India listing) price on Amazon", url: "https://www.amazon.in/dp/B0CG5WQR98?tag=rupeesmart01-21"}
 amazon-epson-v39-ii: {label: "Check Epson Perfection V39 II price on Amazon", url: "https://www.amazon.in/dp/B0C35V1CLK?tag=rupeesmart01-21"}
 amazon-epson-es-60w: {label: "Check Epson WorkForce ES-60W price on Amazon", url: "https://www.amazon.in/dp/B07KRXXWYY?tag=rupeesmart01-21"}
+amazon-iscale-i02: {label: "Check iScale i-02 (stamped, 30 kg) price on Amazon", url: "https://www.amazon.in/dp/B08K2NRXJQ?tag=rupeesmart01-21"}
+amazon-iscale-i03: {label: "Check iScale i-03 (stamped, 30 kg) price on Amazon", url: "https://www.amazon.in/dp/B093WMBNMW?tag=rupeesmart01-21"}
+amazon-iscale-i03p: {label: "Check iScale i-03P (pole display) price on Amazon", url: "https://www.amazon.in/dp/B0DRPKDMY3?tag=rupeesmart01-21"}
+amazon-iscale-i01: {label: "Check iScale i-01 (pole display, 10x12 pan) price on Amazon", url: "https://www.amazon.in/dp/B08K2PZZ7F?tag=rupeesmart01-21"}
+amazon-ionix-30kg-dual: {label: "Check IONIX 30 kg dual display scale price on Amazon", url: "https://www.amazon.in/dp/B0BPPWT61Q?tag=rupeesmart01-21"}
+amazon-iscale-i20: {label: "Check iScale i-20 (100 kg platform) price on Amazon", url: "https://www.amazon.in/dp/B0BCX6ZTY8?tag=rupeesmart01-21"}
