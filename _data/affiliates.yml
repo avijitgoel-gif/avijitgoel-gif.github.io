@@ -90,3 +90,7 @@ amazon-iscale-i03p: {label: "Check iScale i-03P (pole display) price on Amazon",
 amazon-iscale-i01: {label: "Check iScale i-01 (pole display, 10x12 pan) price on Amazon", url: "https://www.amazon.in/dp/B08K2PZZ7F?tag=rupeesmart01-21"}
 amazon-ionix-30kg-dual: {label: "Check IONIX 30 kg dual display scale price on Amazon", url: "https://www.amazon.in/dp/B0BPPWT61Q?tag=rupeesmart01-21"}
 amazon-iscale-i20: {label: "Check iScale i-20 (100 kg platform) price on Amazon", url: "https://www.amazon.in/dp/B0BCX6ZTY8?tag=rupeesmart01-21"}
+amazon-ledger-nano-s-plus-purple: {label: "Check Ledger Nano S Plus price on Amazon (sold by Starone Electronics)", url: "https://www.amazon.in/dp/B0C9M5KSHG?tag=rupeesmart01-21"}
+amazon-ledger-nano-s-plus-black: {label: "Check Ledger Nano S Plus Matte Black price on Amazon", url: "https://www.amazon.in/dp/B09W71RQWV?tag=rupeesmart01-21"}
+amazon-tangem-2: {label: "Check Tangem Wallet 2-card pack price on Amazon", url: "https://www.amazon.in/dp/B0CL9V9RR4?tag=rupeesmart01-21"}
+amazon-tangem-3: {label: "Check Tangem Wallet 3-card pack price on Amazon", url: "https://www.amazon.in/dp/B0CL9TGD85?tag=rupeesmart01-21"}
