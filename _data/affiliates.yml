@@ -94,3 +94,8 @@ amazon-ledger-nano-s-plus-purple: {label: "Check Ledger Nano S Plus price on Ama
 amazon-ledger-nano-s-plus-black: {label: "Check Ledger Nano S Plus Matte Black price on Amazon", url: "https://www.amazon.in/dp/B09W71RQWV?tag=rupeesmart01-21"}
 amazon-tangem-2: {label: "Check Tangem Wallet 2-card pack price on Amazon", url: "https://www.amazon.in/dp/B0CL9V9RR4?tag=rupeesmart01-21"}
 amazon-tangem-3: {label: "Check Tangem Wallet 3-card pack price on Amazon", url: "https://www.amazon.in/dp/B0CL9TGD85?tag=rupeesmart01-21"}
+amazon-zkteco-lx50: {label: "Check ZKTeco LX50 fingerprint attendance machine price on Amazon", url: "https://www.amazon.in/dp/B076D9HB5M?tag=rupeesmart01-21"}
+amazon-cpplus-t2324u: {label: "Check CP PLUS CP-VTA-T2324-U price on Amazon", url: "https://www.amazon.in/dp/B0FXMRXQJ4?tag=rupeesmart01-21"}
+amazon-teamoffice-z100n: {label: "Check Team Office Z100N (fingerprint + RFID) price on Amazon", url: "https://www.amazon.in/dp/B0855FL6BV?tag=rupeesmart01-21"}
+amazon-hikvision-k1a802aef: {label: "Check Hikvision DS-K1A802AEF (Wi-Fi + LAN) price on Amazon", url: "https://www.amazon.in/dp/B0H834LDR8?tag=rupeesmart01-21"}
+amazon-realtime-c101plus: {label: "Check Realtime C101+ (RFID + door relay) price on Amazon", url: "https://www.amazon.in/dp/B0FKTFT5L8?tag=rupeesmart01-21"}
