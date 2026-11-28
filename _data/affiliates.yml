@@ -99,3 +99,7 @@ amazon-cpplus-t2324u: {label: "Check CP PLUS CP-VTA-T2324-U price on Amazon", ur
 amazon-teamoffice-z100n: {label: "Check Team Office Z100N (fingerprint + RFID) price on Amazon", url: "https://www.amazon.in/dp/B0855FL6BV?tag=rupeesmart01-21"}
 amazon-hikvision-k1a802aef: {label: "Check Hikvision DS-K1A802AEF (Wi-Fi + LAN) price on Amazon", url: "https://www.amazon.in/dp/B0H834LDR8?tag=rupeesmart01-21"}
 amazon-realtime-c101plus: {label: "Check Realtime C101+ (RFID + door relay) price on Amazon", url: "https://www.amazon.in/dp/B0FKTFT5L8?tag=rupeesmart01-21"}
+amazon-casio-mj-120gst: {label: "Check Casio MJ-120GST GST calculator price on Amazon", url: "https://www.amazon.in/dp/B07KYTJQXP?tag=rupeesmart01-21"}
+amazon-casio-mj-12gst: {label: "Check Casio MJ-12GST GST calculator price on Amazon", url: "https://www.amazon.in/dp/B07KZ554VS?tag=rupeesmart01-21"}
+amazon-flair-fc-900tx: {label: "Check Flair FC-900TX 16 digit GST calculator price on Amazon", url: "https://www.amazon.in/dp/B0BKLK8VW7?tag=rupeesmart01-21"}
+amazon-orpat-ot-512gt: {label: "Check Orpat OT-512GT calculator price on Amazon", url: "https://www.amazon.in/dp/B01I1AZJ1K?tag=rupeesmart01-21"}
